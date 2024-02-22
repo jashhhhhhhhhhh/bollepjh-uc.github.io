@@ -1,3 +1,4 @@
+// greetings.js
 const Greeting = () => {
   const hour = new Date().getHours();
   let greetingMessage;
