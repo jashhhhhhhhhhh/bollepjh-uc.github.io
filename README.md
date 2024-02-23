@@ -56,10 +56,14 @@ here in upcoming screenshots digital, analog and hide my email functionalities a
 ![p4](labReports/p4.png)
 here two public apis are used joke api and weather forecast report api 
 1. my portfolio integrated with joke api is shown in below figure which changes the joke every minute
+.
+![p9](labReports/p9.png)
 
-
-
+2.my portfolio integrated with weather forecast api is shown below in the screenshot 
+.
 ![p4](labReports/p4.png)
+
+
 ![p5](labReports/p5.png)
 
 
