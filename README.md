@@ -46,10 +46,20 @@ upon clicking the waph course link it will redirect to all my course work
 ### portfolio Technical_requirements
 # my basic java_script codes
 1. my portfolio digital clock : here i used react.js code to show digital clock. in this screenshot digital clock is shown below the dynamic weather icon.
+code c ```<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>```
+
+. 
+here in upcoming screenshots digital, analog and hide my email functionalities are shown by using the respective js and react.js code
+.
+![p1](labReports/p1.png)
 .
 ![p4](labReports/p4.png)
+here two public apis are used joke api and weather forecast report api 
+1. my portfolio integrated with joke api is shown in below figure which changes the joke every minute
 
-code c ```
+
+
+![p4](labReports/p4.png)
 ![p5](labReports/p5.png)
 
 
