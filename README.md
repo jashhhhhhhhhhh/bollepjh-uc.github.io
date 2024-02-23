@@ -15,7 +15,7 @@ This project centers on crafting a professional profile website for front-end we
 
 my public repo : [https://github.com/jashhhhhhhhhhh/bollepjh-uc.github.io/edit/main/README.md](https://github.com/jashhhhhhhhhhh/bollepjh-uc.github.io/edit/main/README.md)
 
-[p1](../../labreports/p1.png)
+![p1](../../labreports/p1.png)
 
 
 
