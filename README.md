@@ -35,12 +35,23 @@ upon clicking the waph course link it will redirect to all my course work
 ![p3](labReports/p3.png)
 
 ### non technical portfolio requirements 
+1. here i attached css and bootstrap direct links to get good responsive websites pages having many funtionalities such as adding my social media links and its also have a stack containging various clickable links with good visuals.
+.
+![p8](labReports/p8.png)
 
-
-
-![p4](labReports/p4.png)
-![p5](labReports/p5.png)
+2.here i attached the page tracker information of my portfolio page by adding it to google analytics website and this screenshot shows how many people are currently on this page and how many people are visited till now.
+.
 ![p7](labReports/p7.png)
+
+### portfolio Technical_requirements
+# my basic java_script codes
+1. my portfolio digital clock : here i used react.js code to show digital clock. in this screenshot digital clock is shown below the dynamic weather icon.
+.
+![p4](labReports/p4.png)
+
+code c ```
+![p5](labReports/p5.png)
+
 
 
 
