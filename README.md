@@ -63,7 +63,13 @@ here two public apis are used joke api and weather forecast report api
 .
 ![p4](labReports/p4.png)
 
+### here i used javascript cookies to record the users visit to my page 
+in the below screenshot it shows welcome to my page for first visit
+.
+![p10](labReports/p10.png)
 
+in the below screenshot it shows welcome back to my page for the frequent visit after their first visit 
+.
 ![p5](labReports/p5.png)
 
 
