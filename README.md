@@ -47,13 +47,12 @@ upon clicking the waph course link it will redirect to all my course work
 # my basic java_script codes
 1. my portfolio digital clock : here i used react.js code to show digital clock. in this screenshot digital clock is shown below the dynamic weather icon.
 code c ```<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>```
-
 . 
-here in upcoming screenshots digital, analog and hide my email functionalities are shown by using the respective js and react.js code
-.
+here in upcoming screenshots digital, analog and hide my email functionalities and my funtionality of my choice is downloading users resume using one click.
+. are shown by using the respective js and react.js code 
 ![p1](labReports/p1.png)
 .
-![p4](labReports/p4.png)
+![p4](labReports/p4.png) 
 here two public apis are used joke api and weather forecast report api 
 1. my portfolio integrated with joke api is shown in below figure which changes the joke every minute
 .
@@ -65,6 +64,23 @@ here two public apis are used joke api and weather forecast report api
 
 ### here i used javascript cookies to record the users visit to my page 
 in the below screenshot it shows welcome to my page for first visit
+javascript _coookies are added to page to record visits 
+code ```function getCookie(name) {
+            let cookieName = name + "=";
+            let decodedCookie = decodeURIComponent(document.cookie);
+            let ca = decodedCookie.split(';');
+            for(let i = 0; i <ca.length; i++) {
+                let c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(cookieName) == 0) {
+                    return c.substring(cookieName.length, c.length);
+                }
+            }
+            return "";
+        }```
+        
 .
 ![p10](labReports/p10.png)
 
