@@ -1,4 +1,4 @@
-# waph-labs/lab2-jaswanthbollepjh
+# waph-individualproject-jaswanthbollepjh
 # Web Applications Programming and Hacking ---- WAPH
 ## instructors name is: Dr. Phu Phung
 **NAME**: Jaswanth Bollepalli
@@ -22,14 +22,17 @@ A link to a new HTML page showcasing completed Hackathons and Labs as part of th
 my portfolio link : [https://jashhhhhhhhhhh.github.io/bollepjh-uc.github.io/](https://jashhhhhhhhhhh.github.io/bollepjh-uc.github.io/)
 
 ### general portfolio requirements 
- 1. here i created my portfolio webpage which have basic information about my professional educational career and my skills and experiences and i deployed my website on github.io and it also includes my headshot
+1. here i created my portfolio webpage which have basic information about my professional educational career and my skills and experiences and i deployed my website on github.io and it also includes my headshot
 .
+
 ![p1](labReports/p1.png)
 
- 2. here more over i created a clickable waph course link which contain all my previous work of my waph course.
+2. here more over i created a clickable waph course link which contain all my previous work of my waph course.
 .
+
 ![p2](labReports/p2.png)
 .
+
 upon clicking the waph course link it will redirect to all my course work
 .
 ![p3](labReports/p3.png)
@@ -49,10 +52,14 @@ upon clicking the waph course link it will redirect to all my course work
 code c ```<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>```
 . 
 here in upcoming screenshots digital, analog and hide my email functionalities and my funtionality of my choice is downloading users resume using one click.
-. are shown by using the respective js and react.js code 
+. are shown by using the respective js and react.js code
+.
+.
 ![p1](labReports/p1.png)
 .
-![p4](labReports/p4.png) 
+![p4](labReports/p4.png)
+.
+.
 here two public apis are used joke api and weather forecast report api 
 1. my portfolio integrated with joke api is shown in below figure which changes the joke every minute
 .
